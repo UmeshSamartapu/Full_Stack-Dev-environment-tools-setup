@@ -1,5 +1,16 @@
 # Installation & Setup Guide for Essential Tools
 
+## Install Essential Tools
+```bash
+Git – Version control.
+VS Code – Code editor.
+Docker Desktop – Containerization (integrates with WSL2).
+Node.js LTS – For frontend and some backend tools.
+Go – Backend language.
+Azure CLI (optional: also install AWS CLI or gcloud CLI).
+kubectl – Kubernetes CLI.
+Postman – API testing.
+```
 This guide covers the installation, setup, and verification of key development tools.
 
 ---
